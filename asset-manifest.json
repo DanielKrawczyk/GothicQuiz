@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GothicQuiz/static/css/main.27ebab87.chunk.css",
-    "main.js": "/GothicQuiz/static/js/main.af18e1ba.chunk.js",
-    "main.js.map": "/GothicQuiz/static/js/main.af18e1ba.chunk.js.map",
+    "main.js": "/GothicQuiz/static/js/main.27ab5666.chunk.js",
+    "main.js.map": "/GothicQuiz/static/js/main.27ab5666.chunk.js.map",
     "runtime-main.js": "/GothicQuiz/static/js/runtime-main.c64a0b7c.js",
     "runtime-main.js.map": "/GothicQuiz/static/js/runtime-main.c64a0b7c.js.map",
     "static/js/2.bb1b18a4.chunk.js": "/GothicQuiz/static/js/2.bb1b18a4.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c64a0b7c.js",
     "static/js/2.bb1b18a4.chunk.js",
     "static/css/main.27ebab87.chunk.css",
-    "static/js/main.af18e1ba.chunk.js"
+    "static/js/main.27ab5666.chunk.js"
   ]
 }
