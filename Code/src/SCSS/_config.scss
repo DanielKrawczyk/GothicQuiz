@@ -1,0 +1,39 @@
+@font-face {
+    src: url('../fonts/Gothic2Font.ttf');
+    font-family: 'Gothic2Font';
+}
+
+@font-face {
+    src: url('../fonts/GothicFont.ttf');
+    font-family: 'GothicFont';
+}
+
+$font: rgb(241, 206, 148);
+$font-h: rgb(255, 255, 255);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+
+@mixin marginAuto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin transition($sec) {
+    transition: all $sec ease-in-out;
+}
+
+@mixin flex($flow, $justify, $align) {
+    display: flex;
+    flex-flow: $flow;
+    justify-content: $justify;
+    align-items: $align;
+}

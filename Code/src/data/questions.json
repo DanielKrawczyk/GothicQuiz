@@ -1,0 +1,612 @@
+{
+    "gothic":{
+        "questions":[
+            ["Kogo Bezimienny spotyka jako pierwszego po wrzuceniu do Kolonii Karnej?"],
+            ["Co to za ciężka i nieporęczna broń o której wspomina na początku rozgrywki Diego?"],
+            ["Jakie stworzenia Bezimienny spotyka jako pierwsze po rozpoczęciu swojej przygody?"],
+            ["Jakich umiejętności uczy nas Drax polujący na drodze do Starego Obozu?"],
+            ["Kim jest Gravo?"],
+            ["Za ile bryłek rudy Thorus zgodzi się wpuścić nas do zamku?"],
+            ["Czy na scenę obok bramy do zamku można dostać się po prostu na nią wskakując?"],
+            ["Kupując surową stal u kowala, wykuwając z niej niewykończony miecz, a nastepnie go sprzedając ile zyskamy na tym rudy?"],
+            ["Którego z Baalów spotykasz jako pierwszego po wejściu na teren Obozu Bractwa Śniącego?"],
+            ["Którego z tych kopaczy możesz zaprowadzić ze Starego Obozu do Obozu Bractwa?"],
+            ["Którego z wymienionych atrybutów możesz się nauczyć tylko w Nowym Obozie?"],
+            ["Co otrzymuje Bezimienny po oddaniu sfałszowanej listy Diegowi?"],
+            ["Czy Diego zauważył, że lista została sfałszowana?"],
+            ["Skąd orkowie wzięli się na Orkowym Cmentarzysku?"],
+            ["Z kim wyruszasz na Orkowe Cmentarzysko?"],
+            ["Przy której próbie zdobycia kamienia ogniskującego Bezimienny działa sam?"],
+            ["W którym rozdziale orkowie wychodzą poza swoje ziemie i poruszają się pomiędzy obozami?"],
+            ["Co w języku orków oznacza (w kolejności) KROTAHK, KHAZ-TAK, DWACHKARR, ORTH-ANTAK?"],
+            ["Czym jest Ulu-Mulu?"],
+            ["Z jakimi golemami w kolejności musi mierzyć się Bezimienny?"],
+            ["Dlaczego Gomez kazał wymordować Magów Ognia?"],
+            ["Czy jest możliwość zdobycia runy Tchnienie Śmierci?"],
+            ["Dlaczego orkowie schowali Uriziel w Świątyni Śniącego?"],
+            ["Jakiego zaklęcia używa Cor Kalom na Bezimiennym?"],
+            ["W jaki sposób zaaatakuje nas Śniący, gdy rzucimy się na niego z mieczem?"]
+        ],
+        "answers":[
+            [
+                ["Gorna", false],
+                ["Bullita", true],
+                ["Diego", false],
+                ["Kopaczy", false],
+                ["Lestera", false]
+            ],
+            [
+                ["Kilof", true],
+                ["Zardzewiały topór", false],
+                ["Stary miecz", false],
+                ["Drewniana pałka", false],
+                ["Lester", false]
+            ],
+            [
+                ["Ścierwojady", false],
+                ["Kretoszczury", false],
+                ["Wilki", false],
+                ["Gobliny", false],
+                ["Chrząszcze", true]
+            ],
+            [
+                ["Walki w zwarciu", false],
+                ["Walki dystansowej", false],
+                ["Umiejętności złodziejskie", false],
+                ["Zbieranie zwierzęcych trofeów", true],
+                ["Niczego nas nie uczy", false]
+            ],
+            [
+                ["To jeden z kopaczy", true],
+                ["Strażnik w obozie", false],
+                ["Cień mieszkający pod murem", false],
+                ["Wojownik z Nowego Obozu", false],
+                ["Nie ma takiej osoby", false]
+            ],
+            [
+                ["250", false],
+                ["500", false],
+                ["750", false],
+                ["1000", true],
+                ["1500", false]
+            ],
+            [
+                ["Tak, nie ma z tym żadnych problemów", false],
+                ["Nie, zostaniemy odepchęci przez niewidoczną ścianę", true]
+            ],
+            [
+                ["Nic nie zyskamy", false],
+                ["10", true],
+                ["20", false],
+                ["30", false],
+                ["50", false]
+            ],
+            [
+                ["Baal Nanib", true],
+                ["Baal Lukor", false],
+                ["Baal Tondral", false],
+                ["Baal Orun", false],
+                ["Baal Cadar", false]
+            ],
+            [
+                ["Dustin", true],
+                ["Gravo", false],
+                ["Herek", false],
+                ["Guy", false],
+                ["Graham", false]
+            ],
+            [
+                ["Kradzież kieszonkowa", false],
+                ["Skórowanie gadów", false],
+                ["Pozyskiwanie wydzieliny pełzaczy", false],
+                ["Akrobatyka", true],
+                ["Skradanie się", false]
+            ],
+            [
+                ["Dużo jedzenia", false],
+                ["Lekki miecz strażnika", false],
+                ["1000 punktów doświadczenia", false],
+                ["Wszystkie z powyższych", true],
+                ["Nic nie dostaje", false]
+            ],
+            [
+                ["Tak, jednak puścił mu to płazem", false],
+                ["Tak, Bezimienny dostrzegł w jego oczach dziwny błysk", true],
+                ["Nie, Diego nic nie zauważył", false],
+                ["Diego niczego nie zauważył teraz, ale później nam to wypomina", false]
+            ],
+            [
+                ["Znaleźli się tam przypadkiem", false],
+                ["Byli tam cały czas", false],
+                ["Śniący objawił się orkom i polecił im się tam udać", true],
+                ["Straż Świątynna zaalarmowała orkowych zwiadowców", false]
+            ],
+            [
+                ["Z Baal Lukorem", false],
+                ["Z Baal Cadarem", false],
+                ["Z Baal Orunem", false],
+                ["Z Cor Kalomem", false],
+                ["Sam", true]
+            ],
+            [
+                ["W Górskiej Fortecy", false],
+                ["Nad morskim klifem", true],
+                ["W starym klasztorze", false],
+                ["W kanionie trolli", false],
+                ["W grobowcu", false]
+            ],
+            [
+                ["W rozdziale 3", false],
+                ["W rozdziale 4", false],
+                ["W rozdziale 5", false],
+                ["W rozdziale 6", false],
+                ["Orkowie nie opuszczają swoich ziem", true]
+            ],
+            [
+                ["Kieł trolla, język ognistego jaszczura, pazury cieniostwora, ząb błotnego węża", false],
+                ["Język ognistego jaszczura, róg cieniostwora, ząb błotnego węża, kieł trolla", true],
+                ["Język ognistego jaszczura, kieł trolla, róg cieniostwora, serce demona", false],
+                ["Róg cieniostwora, język ognistego jaszczura, skóra trolla, ząb błotnego węża", false],
+                ["Ząb błotnego węża, róg cieniostwora, skóra ognistego jaszczura, kieł trolla", false]
+            ],
+            [
+                ["Amulet", false],
+                ["Pierścień", false],
+                ["Broń", true],
+                ["Zbroja", false],
+                ["Trofeum", false]
+            ],
+            [
+                ["Lodowy, Ognisty, Kamienny", false],
+                ["Ognisty, Kamienny, Lodowy", false],
+                ["Kamienny, Ognisty, Lodowy", false],
+                ["Kamienny, Lodowy, Ognisty", true],
+                ["Ognisty, Lodowy, Kamienny", false]
+            ],
+            [
+                ["Sprzeciwili mu się", true],
+                ["Odkrył ich spisek z Nowym Obozem", false],
+                ["Zaplanowali zamach na Gomeza", false],
+                ["Nawoływali do buntu", false],
+                ["Obarczył ich winą za zawalenie się Starej Kopalni", false]
+            ],
+            [
+                ["Tak, można ją zakupić u Xardasa", false],
+                ["Tak, można ją zakupić u Magów Wody", false],
+                ["Tak, posiada ją ostatni orkowy szaman", true],
+                ["Nie, ale można ją przywołać komendą", false],
+                ["Nie można zdobyć takiej runy w grze", false]
+            ],
+            [
+                ["Ukryli go przed ludźmi", false],
+                ["Chcieli wykorzystać jego moc", false],
+                ["To miał być dar dla wielkiego, orkowego generała", false],
+                ["Ze strachu przed jego potęgą", true],
+                ["Z rozkazu Śniącego", false]
+            ],
+            [
+                ["Kula ognia", false],
+                ["Sen", false],
+                ["Piorun kulisty", false],
+                ["Bryła lodu", false],
+                ["Pirokineza", true]
+            ],
+            [
+                ["Kulą ognia", false],
+                ["Przyzywa demony", false],
+                ["Usypia nas", true],
+                ["Odpycha nas magią", false],
+                ["Gryzie nas", false]
+            ]
+        ]
+    },
+    "gothic2":{
+        "questions":[
+            ["Dlaczego krąg ognia nie może dowiedzieć się o Xardasie?"],
+            ["Jakie imię widnieje na nagrobku w jaskini za Lesterem?"],
+            ["Kim był w kolonii karnej bandyta pilnujący wejścia do jaskini Brago?"],
+            ["Który z wymienionych sposobów NIE umożliwia dostania się do miasta?"],
+            ["Który z mistrzów niechętnie zgadza się, żeby Bezimienny pracował u kogoś innego?"],
+            ["Kto donosi na nas do Lorda Andre w związku z listami gończymi?"],
+            ["Ile starych kamiennych tablic trzeba przekazać Vatrasowi, by ten zwiększył nam manę?"],
+            ["W jaki sposób Canthar mści się na nas, gdy odmówimy mu wykonania zadania albo wtrącimy go do więzienia?"],
+            ["Ile najwięcej złota możesz pożyczyć od Lehmara?"],
+            ["Co jest ukryte w jaskini w północnym lesie, na zachód od kamiennego kręgu?"],
+            ["Którą świątynię w Jarkendarze opanowali nieumarli?"],
+            ["Kto ma decydujący głos w radzie pięciu?"],
+            ["Kto skonstruował pułapkę z zapadniami do najeżonego kolcami dołu?"],
+            ["Jaki jest charakterystyczny znak wejścia do Górniczej Doliny po raz pierwszy?"],
+            ["Kim są poszukiwacze?"],
+            ["Kto został zamordowany po powrocie Bezimiennego i kogo za to niesłusznie posądzono?"],
+            ["Jak Xardas nazywa Pyrokara kiedy ten nie zgadza się na przybycie do Słonecznego Kręgu?"],
+            ["Czy Xardas zgodzi się pomóc w naprawie Oka Innosa, jeżeli Bezimienny nie awansował jeszcze do łowców smoków albo paladynów?"],
+            ["Ilu orkowych hersztów Bezimienny musi wyelimonować?"],
+            ["Ile zbeszczeszczonych kapliczek Bezimienny musi oczyścić ze zła?"],
+            ["Ile maksymalnie osób Bezimienny może zabrać na Dwór Irdorath?"],
+            ["Kogo Bezimienny spotyka w więzieniu na wyspie?"],
+            ["Jak nazywa się mroczny paladyn, jeden ze strażników smoka-ożywieńca?"],
+            ["Co jest potrzebne do otwarcia ostatniej bramy prowadzącej do smoka-ożywieńca?"],
+            ["Czy smok-ożywieniec jest bezpośrednio powiązany z Krukiem?"]
+        ],
+        "answers":[
+            [
+                [
+                    ["Xardas ich zdradził", false],
+                    ["Xardas obrał ścieżkę zła", true],
+                    ["Pyrokar wygnał Xardasa z kręgu ognia", false],
+                    ["Xardas ma wobec nich nikczemne plany", false],
+                    ["Magowie ognia chcą jego śmierci", false]
+                ],
+                [
+                    ["Lotar", true],
+                    ["Hagen", false],
+                    ["Andre", false],
+                    ["Lothar", false],
+                    ["Harad", false]
+                ],
+                [
+                    ["Najemnikiem", false],
+                    ["Strażnikiem", false],
+                    ["Nowicjuszem", false],
+                    ["Nikim", false],
+                    ["Kopaczem", true]
+                ],
+                [
+                    ["Pokonanie bandytów", true],
+                    ["Zbieracz ziół", false],
+                    ["Ubranie farmera", false],
+                    ["Wspinaczka na mury", false],
+                    ["Łapówka", false]
+                ],
+                [
+                    ["Constantino", false],
+                    ["Harad", false],
+                    ["Thorben", false],
+                    ["Mateo", false],
+                    ["Bosper", true]
+                ],
+                [
+                    ["Lothar", false],
+                    ["Pablo", true],
+                    ["Valentino", false],
+                    ["Moe", false],
+                    ["Bartok", false]
+                ],
+                [
+                    ["3", false],
+                    ["5", false],
+                    ["8", false],
+                    ["10", true],
+                    ["12", false]
+                ],
+                [
+                    ["Rozpowie wszystkim kupcom, że Bezimienny był skazańcem", true],
+                    ["Naśle na nas zbirów, by nas pobili i okradli ze złota", false],
+                    ["Doniesie na nas do Lorda Andre i będziemy musieli zapłacić sporą grzywnę", false],
+                    ["Nic nie zrobi, bo siedzi w więzieniu", false]
+                ],
+                [
+                    ["50", false],
+                    ["100", false],
+                    ["200", true],
+                    ["500", false],
+                    ["1000", false]
+                ],
+                [
+                    ["Jaskinia goblinów", false],
+                    ["Krypta wojowników", false],
+                    ["Jaskinia z cieniostworami", false],
+                    ["Gorzelnia", true],
+                    ["Zielarka Sagitta", false]
+                ],
+                [
+                    ["Strażników Umarłych", true],
+                    ["Kapłanów", false],
+                    ["Uzdrowicieli", false],
+                    ["Wojowników", false],
+                    ["Uczonych", false]
+                ],
+                [
+                    ["Kapłani", false],
+                    ["Strażnicy Umarłych", false],
+                    ["Kasta Wojowników", false],
+                    ["Uzdrowiciele", false],
+                    ["Uczeni", true]
+                ],
+                [
+                    ["Quahodron", false],
+                    ["Khardimon", true],
+                    ["Kruk", false]
+                ],
+                [
+                    ["Martwy strażnik", false],
+                    ["Godzina 0:00", true],
+                    ["Przelatujący smok", false],
+                    ["Dialog z Diego", false],
+                    ["Nie ma żadnego", false]
+                ],
+                [
+                    ["Sługami Beliara", false],
+                    ["Dawnymi członkami Bractwa Śniącego", false],
+                    ["Sługami smoka-ożywieńca", false],
+                    ["Wszystkie odpowiedzi są prawidłowe", true]
+                ],
+                [
+                    ["Zamordowano Lothara, obwiniono Benneta", true],
+                    ["Zamordowano Lothara, obwiniono Harada", false],
+                    ["Zamordowano sędziego, obwiniono Benneta", false],
+                    ["Zamordowano sędziego, obwiniono Harada", false],
+                    ["Zamordowano maga ognia, obwiniono Benneta", false]
+                ],
+                [
+                    ["Sukinsynem", false],
+                    ["Starym capem", true],
+                    ["Starym szakalem", false],
+                    ["Kretynem", false],
+                    ["Idiotą", false]
+                ],
+                [
+                    ["Tak", false],
+                    ["Nie", true]
+                ],
+                [
+                    ["16", false],
+                    ["18", false],
+                    ["20", false],
+                    ["22", true],
+                    ["24", false]
+                ],
+                [
+                    ["5", false],
+                    ["7", true],
+                    ["9", false],
+                    ["11", false],
+                    ["Wszystkie", false]
+                ],
+                [
+                    ["5", false],
+                    ["7", false],
+                    ["9", false],
+                    ["10", true],
+                    ["Bez limitu", false]
+                ],
+                [
+                    ["Nowicjusza Pedro", true],
+                    ["Orkowego przywódcę", false],
+                    ["Zombi", false],
+                    ["Upadłego paladyna", false],
+                    ["Demona", false]
+                ],
+                [
+                    ["Lothar", false],
+                    ["Galdan", false],
+                    ["Alhor", true],
+                    ["Elmer", false],
+                    ["Nie ma imienia", false]
+                ],
+                [
+                    ["Zwój i Oko Innosa", false],
+                    ["Zwój i Oko Mocy", true],
+                    ["Tylko zwój", false],
+                    ["Tylko Oko Mocy", false],
+                    ["Tylko Oko Innosa", false]
+                ],
+                [
+                    ["Tak, smok chce zemsty za zamordowanie swojego sługi", true],
+                    ["Tak, Kruk był jego strażnikiem", false],
+                    ["Tak, to dla niego Kruk miał zdobyć Szpon Beliara", false],
+                    ["Tak, smok był jego sługą", false],
+                    ["Nie", false]
+                ]
+            ]
+        ]
+    },
+    "gothic3":{
+        "questions":[
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""],
+            [""]
+        ],
+        "answers":[
+            [
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ],
+                [
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false],
+                    ["", false]
+                ]
+            ]
+        ]
+    }
+}
